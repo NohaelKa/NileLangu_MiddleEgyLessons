@@ -1,24 +1,22 @@
 Lesson 1
 Notes /**
-𓆑,𓅂,𓂝,𓇋,𓆼,𓈖
+𓆑,𓅂,𓂝,𓇋,𓈖
 **/ End of Notes
 
 start_0
 audiochoice
 𓅂,𓂝,𓆑
 𓂝,𓆑,𓇋
-𓆑,𓆼,𓇋
+𓆑,𓅂,𓇋
 𓇋,𓈖,𓂝
-𓆼,𓇋,𓅂
-𓈖,𓆼,𓆑
+𓈖,𓅂,𓆑
 -
 audiochoice
 𓅂,𓂝,𓆑
 𓂝,𓆑,𓅂
-𓆑,𓆼,𓇋
+𓆑,𓅂,𓇋
 𓇋,𓈖,𓅂
-𓆼,𓇋,𓆑
-𓈖,𓆼,𓆑
+𓈖,𓂝,𓆑
 -
 end_0
 
@@ -28,14 +26,12 @@ multichoice
 𓂝,Forearm,Water,Horned viper,Vulture
 𓆑,Horned viper,Forearm,Lotus plant,Vulture
 𓇋,Reed,Forearm,Lotus plant,Horned viper
-𓆼,Lotus plant,Fire-drill,Reed,Vulture
 𓈖,Water,Fire-drill,Pool with lotus flowers,Reed
 -
 𓅂,Vulture,Water,Fire-drill,Pool with lotus flowers
 𓂝,Forearm,Water,Horned viper,Vulture
 𓆑,Horned viper,Forearm,Lotus plant,Vulture
 𓇋,Reed,Forearm,Lotus plant,Horned viper
-𓆼,Lotus plant,Fire-drill,Reed,Vulture
 𓈖,Water,Fire-drill,Pool with lotus flowers,Reed
 -
 end_1
@@ -43,10 +39,9 @@ end_1
 start_2
 audiochoice
 𓅂,𓂝,𓆑
-𓂝,𓆑,𓆼
-𓆑,𓆼,𓇋
+𓂝,𓆑,𓅂
+𓆑,𓂝,𓇋
 𓇋,𓈖,𓅂
-𓆼,𓇋,𓈖
 𓈖,𓆼,𓆑
 -
 multichoice
@@ -54,7 +49,6 @@ multichoice
 𓂝,Forearm,Water,Horned viper,Vulture
 𓆑,Horned viper,Forearm,Lotus plant,Vulture
 𓇋,Reed,Forearm,Lotus plant,Horned viper
-𓆼,Lotus plant,Fire-drill,Reed,Vulture
 𓈖,Water,Fire-drill,Pool with lotus flowers,Reed
 -
 end_2
