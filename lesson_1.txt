@@ -1,0 +1,78 @@
+Lesson 1
+Notes /**
+𓆑,𓅂,𓂝,𓇋,𓆷,𓆼,𓍑,𓈖
+**/ End of Notes
+
+start_0
+audiochoice
+𓅂,𓂝,𓆑
+𓂝,𓆑,𓆷
+𓆑,𓆼,𓇋
+𓇋,𓈖,𓍑
+𓆷,𓂝,𓍑
+𓆼,𓇋,𓆷
+𓍑,𓆑,𓅂
+𓈖,𓆼,𓆑
+-
+audiochoice
+𓅂,𓂝,𓆑
+𓂝,𓆑,𓆷
+𓆑,𓆼,𓇋
+𓇋,𓈖,𓍑
+𓆷,𓂝,𓍑
+𓆼,𓇋,𓆷
+𓍑,𓆑,𓅂
+𓈖,𓆼,𓆑
+-
+end_0
+
+start_1
+multichoice
+𓅂,Vulture,Water,Fire-drill,Pool with lotus flowers
+𓂝,Forearm,Water,Horned viper,Vulture
+𓆑,Horned viper,Forearm,Lotus plant,Vulture
+𓇋,Reed,Forearm,Lotus plant,Horned viper
+𓆷,Pool with lotus flowers,Horned viper,Reed,Vulture
+𓆼,Lotus plant,Fire-drill,Reed,Vulture
+𓍑,Fire-drill,Pool with lotus flowers,Reed,Water
+𓈖,Water,Fire-drill,Pool with lotus flowers,Reed
+-
+𓅂,Vulture,Water,Fire-drill,Pool with lotus flowers
+𓂝,Forearm,Water,Horned viper,Vulture
+𓆑,Horned viper,Forearm,Lotus plant,Vulture
+𓇋,Reed,Forearm,Lotus plant,Horned viper
+𓆷,Pool with lotus flowers,Horned viper,Reed,Vulture
+𓆼,Lotus plant,Fire-drill,Reed,Vulture
+𓍑,Fire-drill,Pool with lotus flowers,Reed,Water
+𓈖,Water,Fire-drill,Pool with lotus flowers,Reed
+-
+end_1
+
+start_2
+audiochoice
+𓅂,𓂝,𓆑
+𓂝,𓆑,𓆷
+𓆑,𓆼,𓇋
+𓇋,𓈖,𓍑
+𓆷,𓂝,𓍑
+𓆼,𓇋,𓆷
+𓍑,𓆑,𓅂
+𓈖,𓆼,𓆑
+-
+multichoice
+𓅂,Vulture,Water,Fire-drill,Pool with lotus flowers
+𓂝,Forearm,Water,Horned viper,Vulture
+𓆑,Horned viper,Forearm,Lotus plant,Vulture
+𓇋,Reed,Forearm,Lotus plant,Horned viper
+𓆷,Pool with lotus flowers,Horned viper,Reed,Vulture
+𓆼,Lotus plant,Fire-drill,Reed,Vulture
+𓍑,Fire-drill,Pool with lotus flowers,Reed,Water
+𓈖,Water,Fire-drill,Pool with lotus flowers,Reed
+-
+end_2
+
+Dictionary
+[pri][ⲡⲁⲡⲏⲓ] My House:𓉐𓏺𓀀
+[pr][ⲡⲏⲓ] House:𓉐𓏺
+[iw.i] I'm:𓇋𓅱𓀀
+-
